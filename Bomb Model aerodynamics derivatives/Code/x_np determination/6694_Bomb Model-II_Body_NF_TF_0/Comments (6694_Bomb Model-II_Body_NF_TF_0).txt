@@ -1,0 +1,7 @@
+
+
+1.	6694_Bomb Model-II_Body_NF_TF_0
+==>	Cmy v/s alpha curve is fairly flat (i.e Slope is zero) at NP location of 0.093.
+	Approximate location of NP from balance load center is 0.093m. (i.e 0.465-0.093 = 0.372 behind nose).
+==>	Considering SM of +15%, the CG shold lie at 0.01665 m ahead of NP. 
+	(i.e. ***0.10965 m from balance load center**** and 0.35535 m behind nose)
